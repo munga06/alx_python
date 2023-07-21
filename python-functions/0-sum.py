@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
-if __name__ == '__main__':
-   def add(a, b):
-      return a + b
+#!/usr/bin/python3
+def add(a, b):
+    sum = a + b
+    return sum
