@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-if  __name__ == '__main__':
-    def fibonacci_sequence(n):
+def fibonacci_sequence(n):
     
         if n <= 0:
            return []
